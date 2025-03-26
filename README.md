@@ -7,8 +7,8 @@ The Online Hotel Booking System will provide a user-friendly, real-time, and sec
 ## Installation
 To set up the project locally, follow these steps:
 1. Clone the repository:
-```bash
-git clone https://github.com/vivek-pruthi/SCM_CE2.git
+   ```bash
+   git clone https://github.com/vivek-pruthi/SCM_CE2.git
 
 ## Usage
 Users can create an account and login.
